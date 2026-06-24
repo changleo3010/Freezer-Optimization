@@ -1,0 +1,3 @@
+controller,trials,mean_energy_cost,mean_demand_cost,mean_total_cost,p05_total_cost,p95_total_cost,mean_energy_kwh,mean_peak_power_kw,p95_peak_power_kw,temperature_violation_rate,high_violation_rate,low_violation_rate,terminal_violation_rate,mean_forced_off,mean_forced_full,p95_max_temp
+dp_with_demand_charge,5000,19.507990000000003,5.35871,24.8667,23.458333333333336,26.733333333333334,158.1407,8.6898,10.5,0.0284,0.0122,0.0162,0.0,0.0162,0.0126,-15.231189138305558
+thermostat,5000,21.347040000000003,7.4,28.747040000000002,26.6,30.800000000000004,158.22,12.0,12.0,0.9992,0.9862,0.8584,0.5304,0.0,0.0,-11.349829003154074

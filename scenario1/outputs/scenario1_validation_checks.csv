@@ -1,0 +1,8 @@
+check,status,detail
+expectation_sample_count,PASS,401 samples per hour.
+expectation_sample_means,PASS,Worst sample mean error: 0.000e+00 C.
+override_control_sets,PASS,"Below Tmin -> OFF, above Tmax -> full blast, inside bounds -> normal grid."
+policy_power_bounds,PASS,All policy actions satisfy compressor limits.
+dp_safer_than_thermostat,FAIL,DP 100.00% vs thermostat 100.00%.
+dp_mean_cost_no_more_than_thermostat,FAIL,DP $29.00 vs thermostat $28.49.
+seed_sweep_stable,FAIL,All seed-sweep violation rates are below 5%.
